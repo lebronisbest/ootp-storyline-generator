@@ -1,0 +1,7 @@
+# Python 표준 라이브러리 모듈들은 별도 설치 불필요
+# tkinter, xml.etree.ElementTree, json, datetime은 Python에 기본 포함됨
+
+# EXE 빌드용 도구
+pyinstaller>=6.0.0
+
+# 추가 의존성이 필요한 경우 여기에 추가 
